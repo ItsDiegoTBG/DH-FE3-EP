@@ -1,5 +1,1 @@
-## Para correr el proyecto
-
-`npm install`
-
-`npm run dev`
+Entregable Parcial de FrontEnd 3 DH
